@@ -27,7 +27,7 @@
   "license": "MIT",
   "dependencies": {
     "debug": "~0.7.2",
-    "underscore": "~1.5.1",
+    "underscore": "~1.12.1",
     "upnp-client": "0.0.1",
     "xml2js": "~0.2.8",
     "request": "~2.27.0"
